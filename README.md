@@ -1,16 +1,11 @@
 Visualizing-Cavity-Viruses-Quick-project-
 =========================================
 
-STANDARD DISCLAIMER
-Unlike most people who commit code to github,
-my primary motivation is simply to find a place
-for interesting code to live if I don't want to
-lose track of it.  You'll find my coding styles 
-vary from project to project and that I pay
-little attention to community standards or
-feedback.  I do all that stuff at my day job.
+STANDARD DISCLAIMER: Unlike most people who commit code to github, my 
+primary motivation is simply to find a place for interesting code to live if I don't want to
+lose track of it.  You'll find my coding styles vary from project to project and that I pay
+little attention to community standards or feedback.  I do all that stuff at my day job.
 Enjoy!  
-
 
 This was HASTILY written in about four hours.  It is a proof-of-concept
 that explores the viability of having novice security analysts reverse-
