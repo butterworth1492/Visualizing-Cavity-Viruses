@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title></title>
+  </head>
+
+  <body>
+
+    <table>
+      <tr>
+        <td style="margin:auto;"> <span class="header">Clean binary</span> </td>
+        <td style="margin:auto;"> <span class="header">Infected binary</span> </td>
+      </tr>
+      <tr>
+        <td> <img alt="clean" src="clean/REPLACE_ME_map.png" /> </td>
+        <td> <img alt="infected" src="infected/REPLACE_ME_map.png" /> </td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>
